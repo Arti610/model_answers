@@ -115,10 +115,9 @@ There are two main versions of IP:
 
 1. **IPv4 (Internet Protocol version 4):** This version uses a 32-bit address scheme, allowing for a total of approximately 4.3 billion unique addresses. IPv4 addresses are written as four sets of numbers separated by periods (e.g., 192.168.0.1).
 
-2. **IPv6 (Internet Protocol version 6):** Due to the exhaustion of IPv4 addresses, IPv6 was introduced with a 128-bit address scheme, providing an astronomically larger number of possible unique addresses. IPv6 addresses are written as eight groups of hexadecimal digits, separated by colons (e.g., 2001:0db8:85a3:0000:0000:8a2e:0370:7334).
+**IPv6 (इंटरनेट प्रोटोकॉल संस्करण 6):** IPv4 पते की कमी के कारण, IPv6 को 128-बिट पते योजना के साथ पेश किया गया था, जिससे एक अस्ट्रोनॉमिकली बड़ी संख्या में संभावित अद्वितीय पते हो सकते हैं। IPv6 पते हेक्साडेसिमल डिजिट्स के आठ समूहों के रूप में लिखे जाते हैं, जिन्हें दो बिंदुओं से विभाजित किया जाता है (उदाहरण के लिए, 2001:0db8:85a3:0000:0000:8a2e:0370:7334)।
 
-IP operates at the network layer of the OSI (Open Systems Interconnection) model and is an integral part of the TCP/IP (Transmission Control Protocol/Internet Protocol) suite, which forms the backbone of internet communication. It ensures that data packets are correctly addressed, routed, and delivered to their intended destinations across interconnected networks.
-
+IP OSI (ओपन सिस्टम्स इंटरकनेक्टिविटी) मॉडल के नेटवर्क पर कार्रवाई करता है और यह इंटरनेट संवाद की कड़ी का एक अभिन्न हिस्सा है, जो इंटरनेट संवाद का कड़ीदार बनाता है। यह सुनिश्चित करता है कि डेटा पैकेट्स को सही पते, मार्गित, और उनके इच्छित गंतव्यों को सही ढंग से पहुंचाया जाता है, जब वे आपसी जुड़े नेटवर्क्स के बीच यात्रा करते हैं।
 
 
 ## 8. What is FTP ? 
